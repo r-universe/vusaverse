@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vvcanvas"]
+	path = vvcanvas
+	url = https://github.com/vusaverse/vvcanvas
+	shallow = true
+	registered = true
 [submodule "vvfiller"]
 	path = vvfiller
 	url = https://github.com/vusaverse/vvfiller
+	shallow = true
+	registered = true
+[submodule "vvtableau"]
+	path = vvtableau
+	url = https://github.com/vusaverse/vvtableau
 	shallow = true
 	registered = true
