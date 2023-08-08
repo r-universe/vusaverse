@@ -11,3 +11,6 @@
 [submodule "vvtableau"]
 	path = vvtableau
 	url = https://github.com/vusaverse/vvtableau
+[submodule "vvtermtime"]
+	path = vvtermtime
+	url = https://github.com/vusaverse/vvtermtime
