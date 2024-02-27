@@ -8,6 +8,9 @@
 [submodule "vvfiller"]
 	path = vvfiller
 	url = https://github.com/vusaverse/vvfiller
+[submodule "vvmover"]
+	path = vvmover
+	url = https://github.com/vusaverse/vvmover
 [submodule "vvtableau"]
 	path = vvtableau
 	url = https://github.com/vusaverse/vvtableau
