@@ -5,6 +5,9 @@
 [submodule "vvcanvas"]
 	path = vvcanvas
 	url = https://github.com/vusaverse/vvcanvas
+[submodule "vvconverter"]
+	path = vvconverter
+	url = https://github.com/vusaverse/vvconverter
 [submodule "vvdoctor"]
 	path = vvdoctor
 	url = https://github.com/vusaverse/vvdoctor
